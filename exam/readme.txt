@@ -1,0 +1,4 @@
+Note: We are interested in the reasoning underlying the solution, as opposed to simply the answer. Thus, solutions with the correct answer but without adequate explanation will not receive full credit; on the other
+hand, partial solutions with explanation will receive partial credit. Within a given problem, you can assume the results of previous parts in proving later parts (e.g., it is fine to solve part 3) first, assuming the results of parts 1) and 2)).
+
+This is an open-book exam. However, your use of resources should be limited to printed lecture slides, lecture notes, homework, homework ,solutions, general resources, class reading and textbooks, and other related textbooks on optimization. You should not discuss the final exam problems with anyone or use any electronic devices. Detected violations of ,this policy will be processed according to ShanghaiTech’s code of academic integrity. Please hand in the exam papers and answer sheets at the end of exam.
